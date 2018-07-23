@@ -1,3 +1,6 @@
+puts "supercalifragilisticexpialidocious".upcase
+puts "IM NOT SHOUTING".downcase
+puts "supercalifragilisticexpialidocious".reverse+"wow"+"mom"
 
 # Challenge 1: Fill this string in with your favorite word
 
