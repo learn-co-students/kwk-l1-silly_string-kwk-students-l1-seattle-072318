@@ -1,6 +1,6 @@
 # Silly String
 
-A string in Ruby is an data type that holds words, numbers, and other characters. A string is just data. This lab is going to be a refresher on how to create and manipulate strings. You'll code your solution in `silly_string.rb`
+A string in Ruby is a data type that holds words, numbers, and other characters. A string is just data. This lab is going to be a refresher on how to create and manipulate strings. You'll code your solution in `silly_string.rb`
 
 You can read about strings and all the methods available [here](http://www.ruby-doc.org/core-2.1.1/String.html).
 
